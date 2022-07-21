@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Taschenrechner</string>
+
+    #Zahlen
+    <string name="Null">0</string>
+    <string name="Eins">1</string>
+    <string name="Zwei">2</string>
+    <string name="Drei">3</string>
+    <string name="Vier">4</string>
+    <string name="Fünf">5</string>
+    <string name="Sechs">6</string>
+    <string name="Sieben">7</string>
+    <string name="Acht">8</string>
+    <string name="Neun">9</string>
+
+    #Operatoren
+    <string name="Addition">+</string>
+    <string name="Subtraktion">-</string>
+    <string name="Multiplikation">×</string>
+    <string name="Division">÷</string>
+
+    #Extras
+    <string name="Löschen">C</string>
+    <string name="Gleich">=</string>
+    <string name="Rückgängig">|X|</string>
+
+    #Erweitert
+    <string name="Exponent">^</string>
+    <string name="KlammerAuf">(</string>
+    <string name="KlammerZu">)</string>
+    <string name="Punkt">.</string>
+
+    #menu
+    <string name="Weitere">Weitere</string>
+
+    #Extrafeatures
+    <string name="Sinus">sin</string>
+    <string name="Cosinus">cos</string>
+    <string name="Tangens">tan</string>
+    <string name="Wurzel">sqrt</string>
+
+    <string name="Textbox">Geben sie eine Zahl ein</string>
+
+</resources>
